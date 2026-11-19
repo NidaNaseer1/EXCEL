@@ -11,9 +11,9 @@ An Excel-based data cleaning and dashboard project built on a fictional hospital
 | File | Description |
 |------|-------------|
 | `health_care_dataset.xlsx` | Raw dataset with intentional data-quality issues, 30 practice questions and cleaning notes |
-| `Hospital_Analysis_Dashboard.xlsx` | Cleaned dataset, pivot tables, KPI sheet, answers and the final dashboard |
-| `Hospital_Analysis_Dashboard.pdf` | Exported snapshot of the dashboard |
-| `pandas_numpy_project.py` | Companion Pandas & NumPy practical (23 tasks) |
+| `Health Care Analysis Dashboard.xlsx` | Cleaned dataset, pivot tables, KPI sheet, answers and the final dashboard |
+| `Health Care Analysis Dashboard.pdf` | Exported snapshot of the dashboard |
+
 
 ### Sheets in `Hospital_Analysis_Dashboard.xlsx`
 
@@ -97,10 +97,7 @@ An Excel-based data cleaning and dashboard project built on a fictional hospital
 2. Go to the `dashboard` sheet and use the slicers on the left to filter all charts.
 3. To refresh after editing `dataset`: **Data > Refresh All**.
 
-To run the Python companion:
 
-```bash
-pip install pandas numpy openpyxl
 python pandas_numpy_project.py
 ```
 
