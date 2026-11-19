@@ -1,10 +1,8 @@
-# Hospital Analysis Dashboard
+# Health Care Analysis Dashboard
 
 An Excel-based data cleaning and dashboard project built on a fictional hospital patient dataset. It covers data cleaning, derived columns, pivot tables, KPIs and an interactive dashboard with slicers.
 
 > **Note:** All data is fictional practice data. It does not describe real patients and must not be used for medical decisions.
-
-![Dashboard](Hospital_Analysis_Dashboard.pdf)
 
 ---
 
